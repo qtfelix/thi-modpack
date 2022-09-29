@@ -1,0 +1,16 @@
+name = "THI test 1"
+author = "Felix"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "f08935111f2b96a9d268ccbc512079f9744b804684899162929bf13f6353e4f7"
+
+[versions]
+minecraft = "1.19.2"
+quilt = "0.17.4"
+
+[options]
+acceptable-game-versions = ["1.19.2", "1.19.1", "1.19"]

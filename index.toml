@@ -1,0 +1,36 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/chisel-reborn.pw.toml"
+hash = "a63df6b00af53e02fb403644d9dfb0e89c47f6516ab3e87051863b8a580fe7e9"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "ff12a3f774e8e1d0fe139a0ec11c21f00cb27584292e26155f02f8494813e707"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight-fabric.pw.toml"
+hash = "4d6f25f54f62af96b689d62e7db8f97ceb989d0c8e3c7ef0b6745b76d87457e1"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "d432be3fe9bf17d8b2378bb0b110d417a94743195123dd38ab63ed5baa4a92b2"
+metafile = true
+
+[[files]]
+file = "mods/oh-the-biomes-youll-go-fabric.pw.toml"
+hash = "1b39def6a3625c7a7787b53bcd58279ad5eafe55be41ae2c39d9cc80b89e696c"
+metafile = true
+
+[[files]]
+file = "mods/qsl.pw.toml"
+hash = "bbeebc267271bf0b6ab094c1b32dd80071c940505140bea276dc663e3ff13bce"
+metafile = true
+
+[[files]]
+file = "mods/terrablender-fabric.pw.toml"
+hash = "1f6b2360bc301cdac4097e405c4deb56742a5405b8f41303c5281bffe74be3bf"
+metafile = true
