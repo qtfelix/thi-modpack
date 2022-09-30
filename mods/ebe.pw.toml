@@ -1,0 +1,20 @@
+name = "Enhanced Block Entities"
+filename = "enhancedblockentities-0.7.1+1.19.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/OVuFYfre/versions/0.7.1+1.19/enhancedblockentities-0.7.1%2B1.19.jar"
+hash-format = "sha1"
+hash = "78dd28b7d94ef3883e817a328be9e1d66aedaa24"
+
+[update]
+[update.modrinth]
+mod-id = "OVuFYfre"
+version = "s76PBY7D"
+
+[option]
+optional = true
+default = true
+description = """Optimises rendering of block entities e.g. beds, chests, etc. *Strongly* recommended!
+
+Also allows resource packs to customise block entities, if you want to use such a pack."""

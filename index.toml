@@ -7,12 +7,47 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "ff12a3f774e8e1d0fe139a0ec11c21f00cb27584292e26155f02f8494813e707"
+hash = "88c0ded1e087d089bfaf0b5999b615843d533929a06e42f90efbcf6cb885406a"
+metafile = true
+
+[[files]]
+file = "mods/ebe.pw.toml"
+hash = "932875d20d6e65ed342213fbdbb44647c5d0d24c0ba0ece7909a49f7749ecb3c"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "0c70f542f1ff2a028ecefaf12478c42b603c407707e2933a60308631ae50baad"
 metafile = true
 
 [[files]]
 file = "mods/farmers-delight-fabric.pw.toml"
 hash = "4d6f25f54f62af96b689d62e7db8f97ceb989d0c8e3c7ef0b6745b76d87457e1"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "119f9760cd434b344507d70fa4bc8601af511200e10ae080d128f7934de67cad"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "97edab0d054aead3842142bdfbb2d2eb3f59257e3fb8645dbff14b5ec30b5070"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "37317349521d8d20af94d370d57c0f343a30f81ac9aeb5c173da38f39b3f27d4"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.pw.toml"
+hash = "6e6d406015b73c4c8e13360a0137161392101d80025b1b631166b8e1e3feb251"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "cde149a52196780afae924e0841921a84bdb082f83059a6ba0e4b5af42322179"
 metafile = true
 
 [[files]]
@@ -28,6 +63,16 @@ metafile = true
 [[files]]
 file = "mods/qsl.pw.toml"
 hash = "bbeebc267271bf0b6ab094c1b32dd80071c940505140bea276dc663e3ff13bce"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "a345c2335b4819b90249835f589fc55efcfe1f36d6d55375601ca5238aa86742"
+metafile = true
+
+[[files]]
+file = "mods/starlight.pw.toml"
+hash = "4ce7fb65aab2e4176e343bb9b05e05d1b1d1f9a33e548a1c554ebbe06dc39a44"
 metafile = true
 
 [[files]]
