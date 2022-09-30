@@ -1,0 +1,20 @@
+name = "Go Fish"
+filename = "go-fish-1.6.0-1.19.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bb0748fa192cab451d4f57142ac361eb9827be2d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3956142
+project-id = 431135
+
+[option]
+optional = false
+default = true
+description = """(Required because it adds new fish and items)
+
+Adds many new biome-specific and dimension-specific fish (including the Nether and End), new fishing rods and treasure crates. For some info, see https://github.com/Draylar/go-fish/wiki though you're probably better off using a recipe browser mod and checking the advancements it adds too."""

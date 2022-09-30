@@ -41,6 +41,11 @@ hash = "875a2e98ab24ea6f5127a703c6cd38ec0462b6d8729d8bc10a5d9ed9b4bfb644"
 metafile = true
 
 [[files]]
+file = "mods/go-fish.pw.toml"
+hash = "c98b594c6eaaaf987ad37b88c407070f2142965395fefcf22121c108b1f78ea3"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "7c5ae669f3fb28455ba6974a6290703e52640a70c4a34d4ecfe312ca1696de23"
 metafile = true
