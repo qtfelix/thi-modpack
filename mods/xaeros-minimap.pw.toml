@@ -1,0 +1,20 @@
+name = "Xaero's Minimap"
+filename = "Xaeros_Minimap_22.15.0_Fabric_1.19.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9ebb8ddbab8ef5934c002729f8c66810fa178ec6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4010406
+project-id = 263420
+
+[option]
+optional = true
+default = false
+description = """A highly configurable minimap.
+
+(Per the author's conditions for distribution in modpacks, here's a link back to their site: https://chocolateminecraft.com/minimap2.php)"""
