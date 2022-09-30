@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/borderless-mining.pw.toml"
-hash = "e5240511530ccf45713a44717d1010625b92c1bd13627ab632ad75802a84c7ad"
+hash = "b09effe1ff38451198e5dccefedba0eca2d690a5c9e63113f3679b1c595df4f7"
 metafile = true
 
 [[files]]
@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "595bcb859d18c7d65a2aec48b18fdc926b1013ec3a04ba81c18c1b934d440c09"
+hash = "14077b70cf6b362d8b06896fd678e1a4b334fc96f8982e2aaf3e314cfa747d8f"
 metafile = true
 
 [[files]]

@@ -17,6 +17,6 @@ optional = true
 default = true
 description = """(Recommended)
 
-Makes the fullscreen option use the new modern borderless style fullscreen. Makes multimonitor use bearable and alt-tabbing in and out smoother.
+Makes the fullscreen option use the new modern borderless style fullscreen. Makes multimonitor use bearable and alt-tabbing in and out smoother, and on modern Windows it should be at least as fast as exclusive fullscreen.
 
 Disables itself by default on macOS since vanilla already uses its fullscreen API which works well."""

@@ -15,6 +15,8 @@ version = "rAfhHfow"
 [option]
 optional = true
 default = true
-description = """Rendering optimisation mod. *Very strongly* recommended!
+description = """(*Very strongly* recommended!)
+
+Rendering optimisation mod, offering the biggest performance improvement to the game out of all the optimisation mods this pack suggests.
 
 You must also enable Indium if you enable this, for compatibility with other mods in the pack."""
