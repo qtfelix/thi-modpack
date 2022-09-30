@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/borderless-mining.pw.toml"
+hash = "473b8a4af99cd825e9fda5258d5a31036f7ab742fe710344cc5fe6765d9d7eaa"
+metafile = true
+
+[[files]]
 file = "mods/chisel-reborn.pw.toml"
 hash = "a63df6b00af53e02fb403644d9dfb0e89c47f6516ab3e87051863b8a580fe7e9"
 metafile = true
