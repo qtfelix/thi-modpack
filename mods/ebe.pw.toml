@@ -15,6 +15,6 @@ version = "s76PBY7D"
 [option]
 optional = true
 default = true
-description = """Optimises rendering of block entities e.g. beds, chests, etc. *Strongly* recommended!
+description = """Optimises rendering of block entities e.g. beds, chests, signs. *Strongly* recommended!
 
 Also allows resource packs to customise block entities, if you want to use such a pack."""

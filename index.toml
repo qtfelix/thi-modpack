@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/badpackets.pw.toml"
+hash = "8c1bac6273ee298e2fc4e816aa07db93a903eaf8d5f57a76e1abb3f066d25a69"
+metafile = true
+
+[[files]]
 file = "mods/borderless-mining.pw.toml"
 hash = "473b8a4af99cd825e9fda5258d5a31036f7ab742fe710344cc5fe6765d9d7eaa"
 metafile = true
@@ -17,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/ebe.pw.toml"
-hash = "932875d20d6e65ed342213fbdbb44647c5d0d24c0ba0ece7909a49f7749ecb3c"
+hash = "d2311281e3932fab28b37d50cd73eaba62b5ba32b8e01a34439150c6a7332cb8"
 metafile = true
 
 [[files]]
@@ -72,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "a345c2335b4819b90249835f589fc55efcfe1f36d6d55375601ca5238aa86742"
+hash = "595bcb859d18c7d65a2aec48b18fdc926b1013ec3a04ba81c18c1b934d440c09"
 metafile = true
 
 [[files]]
@@ -83,4 +88,9 @@ metafile = true
 [[files]]
 file = "mods/terrablender-fabric.pw.toml"
 hash = "1f6b2360bc301cdac4097e405c4deb56742a5405b8f41303c5281bffe74be3bf"
+metafile = true
+
+[[files]]
+file = "mods/wthit.pw.toml"
+hash = "78c492a394bb31567fa196c411df1d171acd13179569cc994214dfd6ee4aed79"
 metafile = true

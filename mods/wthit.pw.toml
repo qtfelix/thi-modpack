@@ -1,0 +1,20 @@
+name = "WTHIT"
+filename = "wthit-quilt-5.12.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6AQIaxuO/versions/dmnCAJpc/wthit-quilt-5.12.0.jar"
+hash-format = "sha1"
+hash = "28d6cd0f97c969fbe40a44cf32905680877cda3e"
+
+[update]
+[update.modrinth]
+mod-id = "6AQIaxuO"
+version = "dmnCAJpc"
+
+[option]
+optional = true
+default = true
+description = """\"What the Hell is That?\" Adds a configurable tooltip that tells you what the block, entity etc. you're looking at is called, plus some additional info (e.g. entity health, pet owner, what mod it's from). Recommended, especially if you haven't played with the mods we're using or haven't played Minecraft in ages.
+
+(Requires bad packets to be enabled as well)"""
