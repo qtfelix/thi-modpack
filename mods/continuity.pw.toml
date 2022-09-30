@@ -15,6 +15,6 @@ version = "xTtULC68"
 [option]
 optional = false
 default = true
-description = """Adds connected textures support. Required for Chisel to work properly.
+description = """(Required for Chisel to work properly)
 
-It's the Quilt/Fabric equivalent of CTM or the similar feature in OptiFine."""
+Adds connected textures support. It's the Quilt/Fabric equivalent of CTM or the similar feature in OptiFine."""

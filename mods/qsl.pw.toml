@@ -15,4 +15,6 @@ version = "RMRJccdH"
 [option]
 optional = false
 default = true
-description = "Quilt's API and its Fabric compatibility layer. Required by pretty much every mod in the pack"
+description = """(Required by pretty much every mod in the pack)
+
+Quilt's API and its Fabric compatibility layer"""

@@ -15,4 +15,6 @@ version = "vx0mZa04"
 [option]
 optional = true
 default = true
-description = "Some optimisations around Minecraft's networking code. Recommended, since while it's not remotely as big a deal as stuff like Sodium, there's no harm in installing it."
+description = """(Recommended)
+
+Some optimisations around Minecraft's networking code. While it's not remotely as big a deal as stuff like Sodium, there's no harm in installing it anyway."""

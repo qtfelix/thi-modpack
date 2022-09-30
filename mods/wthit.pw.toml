@@ -15,6 +15,8 @@ version = "dmnCAJpc"
 [option]
 optional = true
 default = true
-description = """\"What the Hell is That?\" Adds a configurable tooltip that tells you what the block, entity etc. you're looking at is called, plus some additional info (e.g. entity health, pet owner, what mod it's from). Recommended, especially if you haven't played with the mods we're using or haven't played Minecraft in ages.
+description = """(Recommended, especially if you haven't played with the required mods before or haven't played Minecraft in ages)
+
+\"What the Hell is That?\" Adds a configurable tooltip that tells you what the block, entity etc. you're looking at is called, plus some additional info (e.g. entity health, pet owner, what mod it's from).
 
 (Requires bad packets to be enabled as well)"""

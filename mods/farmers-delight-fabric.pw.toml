@@ -15,4 +15,6 @@ project-id = 482834
 [option]
 optional = false
 default = true
-description = "Expands upon farming and cooking. Required because it adds new items, blocks and food effects. For more info, see https://github.com/vectorwing/FarmersDelight/wiki/Getting-Started"
+description = """(Required because it adds new items, blocks and food effects)
+
+Expands upon farming and cooking. For more info, see https://github.com/vectorwing/FarmersDelight/wiki/Getting-Started"""

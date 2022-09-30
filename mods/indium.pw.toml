@@ -15,4 +15,6 @@ version = "yTfou6df"
 [option]
 optional = true
 default = true
-description = "Fabric Rendering API compatibility for Sodium. Required if you enable Sodium due to some required mods using that API."
+description = """(Required if you enable Sodium, for compatibility with some required mods.)
+
+Fabric Rendering API compatibility for Sodium"""

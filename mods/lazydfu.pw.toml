@@ -15,6 +15,6 @@ version = "4SHylIO9"
 [option]
 optional = true
 default = true
-description = """Makes the game boot faster by deferring non-essential initialization. *Strongly* recommended!
+description = """(*Strongly* recommended!)
 
-Specifically, it stops the game loading the DataFixerUpper which upgrades existing worlds to newer versions of the game until it's actually needed."""
+Makes the game start faster by deferring non-essential initialization. Specifically, it stops the game loading the DataFixerUpper (which upgrades your singleplayer worlds for newer versions of the game) until it's actually needed - which it won't be given you're playing multiplayer."""

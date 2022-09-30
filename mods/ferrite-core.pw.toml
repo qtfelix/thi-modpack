@@ -15,4 +15,6 @@ version = "7epbwkFg"
 [option]
 optional = true
 default = true
-description = "Memory usage optimisation mod. *Strongly* recommended!"
+description = """(*Strongly* recommended!)
+
+Memory usage optimisation mod."""

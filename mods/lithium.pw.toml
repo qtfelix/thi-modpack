@@ -15,4 +15,6 @@ version = "Zs3sdHjK"
 [option]
 optional = true
 default = true
-description = "Game logic optimisation mod. *Strongly* recommended!"
+description = """(*Strongly* recommended!)
+
+Game logic optimisation mod."""

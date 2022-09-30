@@ -15,4 +15,6 @@ project-id = 551763
 [option]
 optional = false
 default = true
-description = "Adds many decorative variations of blocks to the game. Craft a chisel and right click things! Required because it adds new blocks."
+description = """(Required because it adds new blocks)
+
+Adds many decorative variations of blocks to the game. Craft a chisel and right click things!"""

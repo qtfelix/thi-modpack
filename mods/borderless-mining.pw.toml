@@ -15,6 +15,8 @@ version = "gqoXgtxO"
 [option]
 optional = true
 default = true
-description = """Makes the fullscreen option use the new modern borderless style fullscreen. Makes multimonitor use bearable and alt-tabbing in and out smoother. Recommended.
+description = """(Recommended)
+
+Makes the fullscreen option use the new modern borderless style fullscreen. Makes multimonitor use bearable and alt-tabbing in and out smoother.
 
 Disables itself by default on macOS since vanilla already uses its fullscreen API which works well."""

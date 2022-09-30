@@ -15,4 +15,6 @@ version = "8TOgNwQL"
 [option]
 optional = false
 default = true
-description = "A menu for listing installed mods and accessing their config screens. Not strictly required, but configuring mods will otherwise be harder."
+description = """(Not strictly required, but configuring mods will otherwise be harder)
+
+A menu for listing installed mods and accessing their config screens."""

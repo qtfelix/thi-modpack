@@ -15,6 +15,8 @@ version = "qH1xCwoC"
 [option]
 optional = true
 default = true
-description = """Rewrite of the light engine to fix lighting performance and lighting errors. Highly recommended.
+description = """(Strongly recommended)
 
-If you install another mod which assumes the presence of the vanilla light implementation or otherwise does something dodgy with it, there might be an incompatibility. In that case, disable this and install Phosphor instead - https://modrinth.com/mod/phosphor"""
+Rewrite of the light engine to fix lighting performance and lighting errors.
+
+If you install another mod from outside the pack which assumes the presence of the vanilla light engine, there's a small chance of incompatibility. In that case, disable this and install Phosphor instead, which is slower but more compatible."""

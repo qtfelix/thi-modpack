@@ -15,4 +15,6 @@ project-id = 391378
 [option]
 optional = false
 default = true
-description = "Adds many more biomes and structures. It adds many more blocks and is therefore required."
+description = """(Required since it adds new blocks and items)
+
+Adds many new biomes and some structures, some of which are made with new blocks."""

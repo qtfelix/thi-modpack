@@ -15,4 +15,6 @@ version = "R0KPBo5r"
 [option]
 optional = true
 default = true
-description = "Skips rendering blocks and entities that aren't visible (a more advanced and effective version of what Sodium does by itself). *Strongly* recommended!"
+description = """(*Strongly* recommended!)
+
+Skips rendering blocks and entities that aren't visible (a more advanced and effective version of what Sodium does by itself)."""
