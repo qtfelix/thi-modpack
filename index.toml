@@ -5,6 +5,10 @@ file = "README.md"
 hash = "86053a74c08cddf4f45101a6512fb1a0c050ce869527ec58de6992a82ba0676c"
 
 [[files]]
+file = "config/clean-logs/config.toml"
+hash = "bfb1a5459f9d5ca67fc8b265263a753d7715ef85607c04859083668836ef5d6d"
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "95ed294b01f0b9dc9b861ca55c65225fd3e73f13f3beecc21c21fcbdcca98cbc"
 metafile = true
@@ -22,6 +26,11 @@ metafile = true
 [[files]]
 file = "mods/chisel-refabricated.pw.toml"
 hash = "f5f89de5c0cccf5275edbeaa14e6d76d77d7cda5a45d61b0305680659bcc1cb5"
+metafile = true
+
+[[files]]
+file = "mods/clean-logs.pw.toml"
+hash = "8c12678b6fe1365369ce857a479f63efcb5139f31dfb53c643fe77f32344cd9f"
 metafile = true
 
 [[files]]

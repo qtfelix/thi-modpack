@@ -1,0 +1,14 @@
+# Print out all phrases and regex to be filtered out on startup
+# default: true
+printOnStart = true
+# Print a single line on start saying that Clean Logs will filter from this point forward
+# default: false
+printInitLineOnStart = true
+# If a log message has one of these phrases, it will be filtered out from logging
+phrases = [
+    # Prevent harmless log spam if user chooses not to install appleskin
+    "Unknown custom packed identifier: appleskin:exhaustion_sync",
+    "Unknown custom packed identifier: appleskin:saturation_sync"
+]
+# If a log message matches one of these regex patterns, it will be filtered out from logging
+regex = []
