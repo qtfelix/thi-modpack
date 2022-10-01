@@ -8,6 +8,4 @@ Most people should use the auto-updating instance for the [PolyMC](https://polym
 
 ### Usage (advanced)
 
-If you don't trust the auto-updater that was posted, you can quickly make one yourself
-
-https://qtfelix.github.io/thi-modpack/pack.toml
+If you don't trust the auto-updater that was posted, you can quickly make one yourself by [following these instructions](https://packwiz.infra.link/tutorials/installing/packwiz-installer/). Use `https://qtfelix.github.io/thi-modpack/v1/pack.toml` for the pack URL.
