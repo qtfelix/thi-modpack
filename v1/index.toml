@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "86053a74c08cddf4f45101a6512fb1a0c050ce869527ec58de6992a82ba0676c"
-
-[[files]]
 file = "config/clean-logs/config.toml"
 hash = "bfb1a5459f9d5ca67fc8b265263a753d7715ef85607c04859083668836ef5d6d"
 
