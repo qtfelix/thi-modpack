@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "95ed294b01f0b9dc9b861ca55c65225fd3e73f13f3beecc21c21fcbdcca98cbc"
+metafile = true
+
+[[files]]
 file = "mods/badpackets.pw.toml"
 hash = "0615da5afa35bf67d460f5dd8283db2825e702e10c0ffad2a5d3654fa214bd48"
 metafile = true
@@ -13,6 +18,11 @@ metafile = true
 [[files]]
 file = "mods/chisel-refabricated.pw.toml"
 hash = "f5f89de5c0cccf5275edbeaa14e6d76d77d7cda5a45d61b0305680659bcc1cb5"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "ac2e59803840436b06564e28ba91f955ee55a191e5ff4f62a9617053ca493fa7"
 metafile = true
 
 [[files]]
@@ -78,6 +88,11 @@ metafile = true
 [[files]]
 file = "mods/qsl.pw.toml"
 hash = "a0cc2025ef1254bc40e5324ffeb29d20fedf4ab9e57786bb99b46d7f72eee088"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items.pw.toml"
+hash = "ccc93e180d52e0e5c1ad7231fbfc88ee3d8246a3124484f530dc55dcffb77011"
 metafile = true
 
 [[files]]
