@@ -9,6 +9,11 @@ file = "config/clean-logs/config.toml"
 hash = "bfb1a5459f9d5ca67fc8b265263a753d7715ef85607c04859083668836ef5d6d"
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "0616e3af906dedaba7af274d190bb9eb5faf76ffbd21aa35bdd9950ba88d972f"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "95ed294b01f0b9dc9b861ca55c65225fd3e73f13f3beecc21c21fcbdcca98cbc"
 metafile = true
