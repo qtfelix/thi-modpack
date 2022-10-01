@@ -12,8 +12,6 @@ to automatically check for and install modpack updates for you every time you st
 
 Here's a little video guide:
 
-<video src="./images/howto.mp4">
-
 If that's confusing or you'd rather use the vanilla launcher etc. then **that's ok!** You can ask for a premade zip of
 the mods, though it won't autoupdate.
 
