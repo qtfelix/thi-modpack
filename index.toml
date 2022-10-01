@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "86053a74c08cddf4f45101a6512fb1a0c050ce869527ec58de6992a82ba0676c"
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "95ed294b01f0b9dc9b861ca55c65225fd3e73f13f3beecc21c21fcbdcca98cbc"
 metafile = true
