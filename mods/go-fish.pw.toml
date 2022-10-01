@@ -17,4 +17,4 @@ optional = false
 default = true
 description = """(Required because it adds new fish and items)
 
-Adds many new biome-specific and dimension-specific fish (including the Nether and End), new fishing rods and treasure crates. For some info, see https://github.com/Draylar/go-fish/wiki though you're probably better off using a recipe browser mod and checking the advancements it adds too."""
+Adds many new biome-specific and dimension-specific fish (including the Nether and End), new fishing rods and treasure crates. For some info, see https://github.com/Draylar/go-fish/wiki though you're probably better off checking the recipe book or REI and looking at the advancements it adds too."""

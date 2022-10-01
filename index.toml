@@ -60,7 +60,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "a5246e70886627029737eed03a6c57ebe2a37dddbf57dedb7b5a71338dfc34f8"
+hash = "2fc48d7e5f717b0d7102023b065845db3cf9e94c419c31278d4a624cd9b11945"
 metafile = true
 
 [[files]]
@@ -70,7 +70,7 @@ metafile = true
 
 [[files]]
 file = "mods/go-fish.pw.toml"
-hash = "c98b594c6eaaaf987ad37b88c407070f2142965395fefcf22121c108b1f78ea3"
+hash = "0c16e3c59f4eebe1c252b25c17dfd9636a1c7c2d9cb24df84049adcfe2b3aed4"
 metafile = true
 
 [[files]]

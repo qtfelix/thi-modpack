@@ -17,4 +17,4 @@ optional = false
 default = true
 description = """(Required because it adds new items, blocks and food effects)
 
-Expands upon farming and cooking. For more info, see https://github.com/vectorwing/FarmersDelight/wiki/Getting-Started"""
+Expands upon farming and cooking. For more info, see https://github.com/vectorwing/FarmersDelight/wiki/Getting-Started or consult the advancements, recipe book or REI."""
