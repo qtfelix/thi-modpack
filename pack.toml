@@ -1,6 +1,7 @@
-name = "THI test 1"
-author = "Felix"
+name = "THI Modpack"
+author = "Koth and Felix"
 version = "0.1.0"
+description = "A modpack for THI's Minecraft server"
 pack-format = "packwiz:1.1.0"
 
 [index]
