@@ -70,6 +70,11 @@ hash = "875a2e98ab24ea6f5127a703c6cd38ec0462b6d8729d8bc10a5d9ed9b4bfb644"
 metafile = true
 
 [[files]]
+file = "mods/fpsdisplay.pw.toml"
+hash = "621c3e2c3ec2f3d3ab18fb16954b93d1e5886550e785fb4b2991505ac2bc3590"
+metafile = true
+
+[[files]]
 file = "mods/go-fish.pw.toml"
 hash = "0c16e3c59f4eebe1c252b25c17dfd9636a1c7c2d9cb24df84049adcfe2b3aed4"
 metafile = true
