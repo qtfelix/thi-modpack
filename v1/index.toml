@@ -20,6 +20,11 @@ hash = "0615da5afa35bf67d460f5dd8283db2825e702e10c0ffad2a5d3654fa214bd48"
 metafile = true
 
 [[files]]
+file = "mods/better-ping-display.pw.toml"
+hash = "692ab9df0e4de2656e2c77cac3a043c5d9bae2499ecb2bc3a683a5ac0a470826"
+metafile = true
+
+[[files]]
 file = "mods/borderless-mining.pw.toml"
 hash = "b09effe1ff38451198e5dccefedba0eca2d690a5c9e63113f3679b1c595df4f7"
 metafile = true
@@ -71,7 +76,7 @@ metafile = true
 
 [[files]]
 file = "mods/fpsdisplay.pw.toml"
-hash = "621c3e2c3ec2f3d3ab18fb16954b93d1e5886550e785fb4b2991505ac2bc3590"
+hash = "2d82679eac8980e9954cffc14cebab17c61c31d7b89f59ad89ad1808d7c2c623"
 metafile = true
 
 [[files]]
