@@ -1,0 +1,36 @@
+#!/bin/sh
+
+# To enable, copy this into .git/hooks
+
+PACK_PATH=v1
+
+# Redirect output to stderr
+exec 1>&2
+# Enable user input
+exec < /dev/tty
+
+if [ $(git diff --name-only | grep -E "$PACK_PATH/(pack.toml|index.toml)" | wc -l) -gt 0 ]; then
+    read -p "pack.toml and/or index.toml have unstaged changes - continue? " yn
+    echo $yn | grep ^[Yy]$ > /dev/null
+    if [ $? -ne 0 ]; then
+        exit 1
+    fi
+fi
+
+temp_dir_base=$(mktemp -d -t thi-modpack-precommit.XXXXXXXXXX)
+git checkout-index --all --prefix="$temp_dir_base/"
+temp_pack="$temp_dir_base/$PACK_PATH"
+
+packwiz refresh --pack-file "$temp_pack/pack.toml" > /dev/null
+
+diff "$PACK_PATH/pack.toml" "$temp_pack/pack.toml" > /dev/null && diff "$PACK_PATH/index.toml" "$temp_pack/index.toml" > /dev/null
+if [ $? -ne 0 ]; then
+    read -p "Staged pack.toml and/or index.toml seem to be stale (their contents would change with a packwiz refresh) - continue? " yn
+    echo $yn | grep ^[Yy]$ > /dev/null
+    if [ $? -ne 0 ]; then
+        rm -r $temp_dir_base
+        exit 1
+    fi
+fi
+
+rm -r $temp_dir_base
