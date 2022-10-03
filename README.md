@@ -21,5 +21,7 @@ You can also, of course, add any more client-side mods you'd like afterwards!
 
 ## Usage (advanced)
 
-If you don't trust the pre-made auto-updater, you can quickly make one yourself by [following these instructions](https://packwiz.infra.link/tutorials/installing/packwiz-installer/).
+If you don't trust the pre-made auto-updater instance and want to make one yourself, or if you want to add the autoupdater to an existing PolyMC/MultiMC instance that you use, or attempt to make it work with another launcher you're using, [follow these instructions](https://packwiz.infra.link/tutorials/installing/packwiz-installer/).
 Use `https://qtfelix.github.io/thi-modpack/v1/pack.toml` for the pack URL.
+
+If a launcher gets native support for the packwiz format at some point, you should be able to give it the same pack URL.
