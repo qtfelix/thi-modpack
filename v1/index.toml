@@ -85,6 +85,11 @@ hash = "0c16e3c59f4eebe1c252b25c17dfd9636a1c7c2d9cb24df84049adcfe2b3aed4"
 metafile = true
 
 [[files]]
+file = "mods/horsebuff.pw.toml"
+hash = "3166f05f5ac8a0c0f470b1741e4fa89c58f798111ca5eb11f55cfac2db5c19e1"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "7c5ae669f3fb28455ba6974a6290703e52640a70c4a34d4ecfe312ca1696de23"
 metafile = true
