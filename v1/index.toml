@@ -146,7 +146,7 @@ metafile = true
 
 [[files]]
 file = "mods/terrablender.pw.toml"
-hash = "5186e795db440ab66a0ae1550fb5a393ba581233dbf37c01a030d2ebd0484105"
+hash = "0bfc09fac54c4c397cb85e5a02a2eff8c6a2a641c99f5be2464a2ae8e5ca7348"
 metafile = true
 
 [[files]]
@@ -156,7 +156,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "b5a23006fe0141b1f0e502b542ec6fb8bdb1977e4c28a2b08ac7702ba3c72665"
+hash = "250f5746287d59b08305ef220d4bac7e983a8a7f589e4ce7fbe631eba2006c6f"
 metafile = true
 
 [[files]]
