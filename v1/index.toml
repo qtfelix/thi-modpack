@@ -21,7 +21,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-mount-hud.pw.toml"
-hash = "cfc1af633dcf8b1e47a0431af28ab3cb003fedc37a7190c90389b7d4f053fdc7"
+hash = "b97b501669f248ae019d384f7f5da42e010791df8cd6f121415a5d09acfa79e9"
 metafile = true
 
 [[files]]
@@ -111,7 +111,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "a41059f9a9cf1f0299cf7d07e2b2b21723f24db84cd7414d6afd75bcd72770be"
+hash = "e64a519b6de4c1b4e3b5c3c8d553571e82cd583dc005d6ca6dae98ee582060f7"
 metafile = true
 
 [[files]]
@@ -121,12 +121,12 @@ metafile = true
 
 [[files]]
 file = "mods/oh-the-biomes-youll-go.pw.toml"
-hash = "0245a5546f7c4b8a524954f7198ba6d9d46e9673bd4d4e8288f16edd24691dd7"
+hash = "5f39d2f928741c29afd70814c853475ded4edaf55231c8a7d9bc265af3eab160"
 metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "a0cc2025ef1254bc40e5324ffeb29d20fedf4ab9e57786bb99b46d7f72eee088"
+hash = "8ebbfd872a3942daff5a9584739c198f8c88e745bacfa8e976dc16af50b41b0a"
 metafile = true
 
 [[files]]
@@ -151,17 +151,17 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "41d86a50649c33d60ca9aff941c96d3e0584061febc57426e002036b5e5ed2c6"
+hash = "eab1ba6f2d875b9452b507a236e67f0cae682d94dc2a4b7789fcfacfc1ad6954"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "250f5746287d59b08305ef220d4bac7e983a8a7f589e4ce7fbe631eba2006c6f"
+hash = "1ce62edf8798c52e71486eeb3f847402700eba2a4097c95609fcbd50217a6e78"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "657da23e6554ca30de5e2bd946991edcad9ee4028d3efe7368b23c7eb54cb656"
+hash = "6f7b05a48b676094e7af2726e9183855868287943735b18633a9020856e3385f"
 metafile = true
 
 [[files]]
