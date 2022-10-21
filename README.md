@@ -10,9 +10,9 @@ The easiest thing for most people is to [download and import the auto-updating i
 into [Prism Launcher](https://prismlauncher.org/) or MultiMC. It uses [packwiz-installer](https://github.com/packwiz/packwiz-installer)
 to automatically check for and install modpack updates for you every time you start the game.
 
-Here's a little video guide (you may need to unmute it):
+Here's a little video guide (you may need to unmute it, though it also has subtitles):
 
-https://user-images.githubusercontent.com/114816891/193424676-34ec9918-aec2-40c9-b468-f095d0023f5f.mp4
+https://user-images.githubusercontent.com/114816891/197093080-e64abf27-bd12-48d4-8836-80b260d07c68.mp4
 
 If that's confusing or you'd rather use the vanilla launcher etc. then **that's ok!** You can ask for a premade zip of
 the mods, though it won't autoupdate.
