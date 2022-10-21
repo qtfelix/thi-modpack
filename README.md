@@ -7,7 +7,7 @@ improvements to help you get your bearings and search the web for info less ofte
 ## Usage (basic)
 
 The easiest thing for most people is to [download and import the auto-updating instance](https://github.com/qtfelix/thi-modpack/releases/download/autoupdater-v1/THI-modpack.zip)
-into Prism Launcher or MultiMC. It uses [packwiz-installer](https://github.com/packwiz/packwiz-installer)
+into [Prism Launcher](https://prismlauncher.org/) or MultiMC. It uses [packwiz-installer](https://github.com/packwiz/packwiz-installer)
 to automatically check for and install modpack updates for you every time you start the game.
 
 Here's a little video guide (you may need to unmute it):
@@ -21,7 +21,9 @@ You can also, of course, add any more client-side mods you'd like afterwards!
 
 ## Usage (advanced)
 
-If you don't trust the pre-made auto-updater instance and want to make one yourself, or if you want to add the autoupdater to an existing Prism/MultiMC instance that you use, or attempt to make it work with another launcher you're using, [follow these instructions](https://packwiz.infra.link/tutorials/installing/packwiz-installer/).
-Use `https://qtfelix.github.io/thi-modpack/v1/pack.toml` for the pack URL.
+If you don't trust the pre-made auto-updater instance and want to make one yourself, or if you want to add the
+autoupdater to an existing Prism/MultiMC instance that you use, or attempt to make it work with another launcher you're
+using, [follow these instructions](https://packwiz.infra.link/tutorials/installing/packwiz-installer/). Use
+`https://qtfelix.github.io/thi-modpack/v1/pack.toml` for the pack URL.
 
 If a launcher gets native support for the packwiz format at some point, you should be able to give it the same pack URL.
