@@ -135,6 +135,11 @@ hash = "07e2ba253b035d33297b0923a78fc2e7604858e910fb15aed9c36bb7685086d7"
 metafile = true
 
 [[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "c13417e54c19f172a875fcd27f7ef4f0417a033d415c7adc602016ed60d51520"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "14077b70cf6b362d8b06896fd678e1a4b334fc96f8982e2aaf3e314cfa747d8f"
 metafile = true
