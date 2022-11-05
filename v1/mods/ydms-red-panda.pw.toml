@@ -1,0 +1,20 @@
+name = "YDM's Red Panda"
+filename = "redpanda-fabric-1.19.2-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "59e23ad1dc07dce2895405f126fbfa6ec5642919"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4029825
+project-id = 623035
+
+[option]
+optional = false
+default = true
+description = """(Required since it adds a new mob)
+
+It's a red panda! They spawn in bamboo jungles, can be tamed with sweet berries, and can be healed and bred with bamboo."""

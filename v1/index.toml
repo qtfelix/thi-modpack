@@ -173,3 +173,8 @@ metafile = true
 file = "mods/yacl.pw.toml"
 hash = "d3265c5b5ea151720cf381a07f98de0e5a8845cab1306078211e9a3b13577ade"
 metafile = true
+
+[[files]]
+file = "mods/ydms-red-panda.pw.toml"
+hash = "e3f74c98433168cfa00cfe2dcf7ea5cef31f52892037badcb73143b28df94bd8"
+metafile = true
