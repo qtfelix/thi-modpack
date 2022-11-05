@@ -116,7 +116,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "154060fd29e5c445a0d96385a9cbaceeca6f61acf1f36a636e8f4cc26d755314"
+hash = "d29903087b36894a48e42ad17ac285a4cd8dbffdc077efed32ac17356b654d7b"
 metafile = true
 
 [[files]]
@@ -131,7 +131,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "07e2ba253b035d33297b0923a78fc2e7604858e910fb15aed9c36bb7685086d7"
+hash = "7e07a7480a6913da43f078d25ccce421bab1298844294476a6a56dc17ca3c9a1"
 metafile = true
 
 [[files]]
