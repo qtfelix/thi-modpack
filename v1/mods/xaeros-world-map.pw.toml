@@ -14,5 +14,9 @@ project-id = 317780
 
 [option]
 optional = false
-description = "(Required since installing it on the server prevents it from being client optional)\n\nA highly configurable world map.\n\n(Per the author's conditions for distribution in modpacks, here's a link back to their site: https://chocolateminecraft.com/worldmap.php)"
+description = """(Required since installing it on the server prevents it from being client optional)
+
+A highly configurable world map.
+
+(Per the author's conditions for distribution in modpacks, here's a link back to their site: https://chocolateminecraft.com/worldmap.php)"""
 default = true

@@ -14,5 +14,9 @@ version = "zHptoLXM"
 
 [option]
 optional = true
-description = "(Recommended, especially if you haven't played with the required mods before or haven't played Minecraft in ages)\n\n\"What the Hell is That?\" Adds a configurable tooltip that tells you what the block, entity etc. you're looking at is called, plus some additional info (e.g. entity health, pet owner, what mod it's from).\n\n(Requires bad packets to be enabled as well)"
+description = """(Recommended, especially if you haven't played with the required mods before or haven't played Minecraft in ages)
+
+\"What the Hell is That?\" Adds a configurable tooltip that tells you what the block, entity etc. you're looking at is called, plus some additional info (e.g. entity health, pet owner, what mod it's from).
+
+(Requires bad packets to be enabled as well)"""
 default = true

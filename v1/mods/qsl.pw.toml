@@ -14,5 +14,7 @@ version = "hmX9pHvE"
 
 [option]
 optional = false
-description = "(Required by pretty much every mod in the pack)\n\nQuilt's API and its Fabric compatibility layer"
+description = """(Required by pretty much every mod in the pack)
+
+Quilt's API and its Fabric compatibility layer"""
 default = true

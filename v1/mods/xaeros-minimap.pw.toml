@@ -14,5 +14,9 @@ project-id = 263420
 
 [option]
 optional = false
-description = "(Required since installing it on the server prevents it from being client optional)\n\nA highly configurable minimap.\n\n(Per the author's conditions for distribution in modpacks, here's a link back to their site: https://chocolateminecraft.com/minimap2.php)"
+description = """(Required since installing it on the server prevents it from being client optional)
+
+A highly configurable minimap.
+
+(Per the author's conditions for distribution in modpacks, here's a link back to their site: https://chocolateminecraft.com/minimap2.php)"""
 default = true

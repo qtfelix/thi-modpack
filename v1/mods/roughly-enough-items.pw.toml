@@ -14,4 +14,8 @@ version = "AzBJJs8X"
 
 [option]
 optional = true
-description = "(Recommended, especially if you haven't played the game in ages)\n\nAn item and recipe browser that should save you from having to look up the wiki so much. Also includes items and recipes added by other mods.\n\n(Requires Architectury API and Cloth Config API to be enabled as well)"
+description = """(Recommended, especially if you haven't played the game in ages)
+
+An item and recipe browser that should save you from having to look up the wiki so much. Also includes items and recipes added by other mods.
+
+(Requires Architectury API and Cloth Config API to be enabled as well)"""

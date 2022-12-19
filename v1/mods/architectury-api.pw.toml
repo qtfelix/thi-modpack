@@ -14,4 +14,6 @@ version = "JD6EmQHI"
 
 [option]
 optional = true
-description = "(Required by Roughly Enough Items)\n\nA library that helps some mods support both Quilt/Fabric and Forge mod loaders."
+description = """(Required by Roughly Enough Items)
+
+A library that helps some mods support both Quilt/Fabric and Forge mod loaders."""

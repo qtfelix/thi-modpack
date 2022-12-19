@@ -14,5 +14,7 @@ version = "mW3CVg5N"
 
 [option]
 optional = true
-description = "(Required by Cull Less Leaves)\n\nYet another config screen library used by some mods."
+description = """(Required by Cull Less Leaves)
+
+Yet another config screen library used by some mods."""
 default = true

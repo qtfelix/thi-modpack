@@ -14,5 +14,7 @@ version = "oFcbieSw"
 
 [option]
 optional = false
-description = "(Required since it adds new blocks and items)\n\nAdds many new biomes and some structures, some of which are made with new blocks."
+description = """(Required since it adds new blocks and items)
+
+Adds many new biomes and some structures, some of which are made with new blocks."""
 default = true

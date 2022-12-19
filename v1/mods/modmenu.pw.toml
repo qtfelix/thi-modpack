@@ -14,5 +14,7 @@ version = "V4hnfgRO"
 
 [option]
 optional = false
-description = "(Not strictly required, but configuring mods will otherwise be harder)\n\nA menu for listing installed mods and accessing their config screens."
+description = """(Not strictly required, but configuring mods will otherwise be harder)
+
+A menu for listing installed mods and accessing their config screens."""
 default = true

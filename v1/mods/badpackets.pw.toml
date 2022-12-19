@@ -14,5 +14,7 @@ version = "AifWRdyF"
 
 [option]
 optional = true
-description = "(Required by WTHIT)\n\nA library to allow mods using it to work on both Quilt/Fabric and Forge servers even if you're using the other mod loader."
+description = """(Required by WTHIT)
+
+A library to allow mods using it to work on both Quilt/Fabric and Forge servers even if you're using the other mod loader."""
 default = true
