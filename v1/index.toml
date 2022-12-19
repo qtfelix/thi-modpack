@@ -26,7 +26,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-ping-display.pw.toml"
-hash = "ee1d0200a7a320407045c0a6fbf76731b4df2bc482e4614294b35d2c09e17ac9"
+hash = "472c2d8d721592760042e56a7a5e5eb1c2fefa4e80236b7c44af2b62250f93a7"
 metafile = true
 
 [[files]]
@@ -36,7 +36,7 @@ metafile = true
 
 [[files]]
 file = "mods/clean-logs.pw.toml"
-hash = "8c12678b6fe1365369ce857a479f63efcb5139f31dfb53c643fe77f32344cd9f"
+hash = "722b14c4ecd0019df4bea4718d42efdf99bb43a6f5fb72ff717d96be1530f9c5"
 metafile = true
 
 [[files]]
@@ -106,7 +106,7 @@ metafile = true
 
 [[files]]
 file = "mods/lazydfu.pw.toml"
-hash = "dff60d2308d754d1260ecac0572b6eadc476f1e5a86b1a0a061bc758b5869f4a"
+hash = "06e282b71429e7bc90d0ca68544f381f75eec620477747243ef4b1d7f316160e"
 metafile = true
 
 [[files]]
@@ -136,7 +136,7 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "c13417e54c19f172a875fcd27f7ef4f0417a033d415c7adc602016ed60d51520"
+hash = "8644926055ec0e395a840b2a0bf3a07926bf35847fe80d163928a0b2dd068b23"
 metafile = true
 
 [[files]]
