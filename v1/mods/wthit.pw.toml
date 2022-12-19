@@ -1,22 +1,22 @@
 name = "WTHIT"
-filename = "wthit-quilt-5.13.3.jar"
+filename = "wthit-quilt-5.13.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/6AQIaxuO/versions/NW38iTn5/wthit-quilt-5.13.3.jar"
+url = "https://cdn.modrinth.com/data/6AQIaxuO/versions/zHptoLXM/wthit-quilt-5.13.4.jar"
 hash-format = "sha1"
-hash = "0a628b273c8c1151b2429e064967e3bc8523cac0"
+hash = "9c31a7aad960aac1d21b4ae084921cd8704d9b52"
 
 [update]
 [update.modrinth]
 mod-id = "6AQIaxuO"
-version = "NW38iTn5"
+version = "zHptoLXM"
 
 [option]
 optional = true
-default = true
 description = """(Recommended, especially if you haven't played with the required mods before or haven't played Minecraft in ages)
 
 \"What the Hell is That?\" Adds a configurable tooltip that tells you what the block, entity etc. you're looking at is called, plus some additional info (e.g. entity health, pet owner, what mod it's from).
 
 (Requires bad packets to be enabled as well)"""
+default = true
