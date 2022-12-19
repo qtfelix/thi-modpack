@@ -11,3 +11,13 @@ hash = "acd8be74c59291dbf09e2c08de11cabb4bfcd6dd"
 [update.modrinth]
 mod-id = "IrrG0G8l"
 version = "DvXgcRxr"
+
+[option]
+optional = true
+default = true
+description = """Bugfixes and quality-of-life tweaks around horses.
+
+The most important fixes only needed us to install it on the server, but there are some additional client-side benefits:
+* Make the horse translucent when you look down while riding
+* Adjust the horse's head's angle downward while riding
+* Open the inventory while sprinting to show your inventory and not the horse's"""
