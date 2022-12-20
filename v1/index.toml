@@ -55,6 +55,11 @@ hash = "2f006fce9c8a7fbf7680140e80f2e0aab201df36e84f9f360b9edd57b536c404"
 metafile = true
 
 [[files]]
+file = "mods/duckling.pw.toml"
+hash = "1938f70665e1590936b879b5aace46013fc01c3ddd00c755f39545067d33300e"
+metafile = true
+
+[[files]]
 file = "mods/ebe.pw.toml"
 hash = "94cbc4d8b4ae7ae25b491a8f9d1756df0a3787edb97dee1c6599433a589113aa"
 metafile = true
@@ -82,6 +87,11 @@ metafile = true
 [[files]]
 file = "mods/fpsdisplay.pw.toml"
 hash = "2d82679eac8980e9954cffc14cebab17c61c31d7b89f59ad89ad1808d7c2c623"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "46a08a7118c9e89943b686509e99d5a3a01ae3410ea503f92fcf643ebfd319c2"
 metafile = true
 
 [[files]]
