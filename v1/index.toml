@@ -11,12 +11,12 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "498275573c2e70eed181d4ff78c849ba6ad735cd20b6228d52ddd29949d8fb48"
+hash = "197b03f0517e116c9c6c1d08efc1c8e4386e971dece0f1340227bfe443eaa409"
 metafile = true
 
 [[files]]
 file = "mods/badpackets.pw.toml"
-hash = "0615da5afa35bf67d460f5dd8283db2825e702e10c0ffad2a5d3654fa214bd48"
+hash = "205dfe8fca3babd9008d8b23b7eff25fa4e86af8965f0f70fcbd58c486eb1b23"
 metafile = true
 
 [[files]]
@@ -71,12 +71,12 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "8fd31cdd59706ecec8914938ff3f1efbf27898c45b7e5a27c95b7f2795fd6d82"
+hash = "6ac0dcedb1bedd066ec26b0984398687eb863e3aba59bef941767560f936acfc"
 metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "875a2e98ab24ea6f5127a703c6cd38ec0462b6d8729d8bc10a5d9ed9b4bfb644"
+hash = "0cae188182b162113ff3ef100c21463846f884646b3ce221921f4c4cd4116835"
 metafile = true
 
 [[files]]
@@ -91,7 +91,7 @@ metafile = true
 
 [[files]]
 file = "mods/horsebuff.pw.toml"
-hash = "3166f05f5ac8a0c0f470b1741e4fa89c58f798111ca5eb11f55cfac2db5c19e1"
+hash = "2ac4f4318902ea4f1b55cc079a38aba270645813540d943fbc59a2be01fdd7a2"
 metafile = true
 
 [[files]]
@@ -111,12 +111,12 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "4d3878e51889ea7cd10b3a2c5e1e099e72e69823589dd48a1d70480f4a13ef63"
+hash = "fedb8c1cd7c5f9d0bd28a4b4ec665dbbc961ec94f1b9b8dab7deaba3d63a142a"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "d29903087b36894a48e42ad17ac285a4cd8dbffdc077efed32ac17356b654d7b"
+hash = "a18682c39a0d2da6ab80651ead1866a3ddeb331605a48da81f091023439ec1e6"
 metafile = true
 
 [[files]]
@@ -126,12 +126,12 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "2c9c88a4ce530a735f94dc8afdd6d4c3c0f52fb682bbbbff28ace7e159db4db6"
+hash = "d0e66dcb986de3a73a6109c508d54a1ad845bfdb8a681cf696c224f72a09d479"
 metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "7e07a7480a6913da43f078d25ccce421bab1298844294476a6a56dc17ca3c9a1"
+hash = "d860a218217198bb9f208a3c6ed1dca761be1411136c1c0b500ff3a75fcad2f6"
 metafile = true
 
 [[files]]
@@ -151,27 +151,27 @@ metafile = true
 
 [[files]]
 file = "mods/terrablender.pw.toml"
-hash = "889db0e1c6cf5ca95d8303549e85fefcdfa9397c2ebbfa101a7e2298d0c8a208"
+hash = "4fb1e98a657d0273bf7ca9fec264246b6999e4109b503a21aea3fb76f0f001cd"
 metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "318e09ae8caa3eb8de86d2aa6b8f34f41a6b7ec55b89dfd58deb2c6f972fbd63"
+hash = "5ff38d3b3e9f001b665458f1562be582025b96b9ba46b4f19bf3c89b88888704"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "1ce62edf8798c52e71486eeb3f847402700eba2a4097c95609fcbd50217a6e78"
+hash = "6b965ec07e82c78d5bffad9fc892702e1fd04fbf498bbad7e54599f9205a99be"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "6f7b05a48b676094e7af2726e9183855868287943735b18633a9020856e3385f"
+hash = "ba7db23cdc69c4b0fe5f30ee7e14122a7d9a8bc1ce136e0f42ac9621e96cf745"
 metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "d3265c5b5ea151720cf381a07f98de0e5a8845cab1306078211e9a3b13577ade"
+hash = "7f678fa440ed1426c98faedf31375501dd4fd385a68aa048532913cd2b166439"
 metafile = true
 
 [[files]]
