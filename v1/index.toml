@@ -115,6 +115,11 @@ hash = "fedb8c1cd7c5f9d0bd28a4b4ec665dbbc961ec94f1b9b8dab7deaba3d63a142a"
 metafile = true
 
 [[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "9421355a24881292851803d45726a5aebce4c5a5863793d7d373565b4fceb1eb"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "a18682c39a0d2da6ab80651ead1866a3ddeb331605a48da81f091023439ec1e6"
 metafile = true
@@ -152,6 +157,11 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "4fb1e98a657d0273bf7ca9fec264246b6999e4109b503a21aea3fb76f0f001cd"
+metafile = true
+
+[[files]]
+file = "mods/the-bumblezone-fabric.pw.toml"
+hash = "d54a0d6baf70fcddf38b9c7fe24aae59ba47d267c51464836fb0f78ad70f5262"
 metafile = true
 
 [[files]]
