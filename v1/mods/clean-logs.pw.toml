@@ -1,6 +1,6 @@
 name = "Clean Logs"
 filename = "clean-logs-1.2.0.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/OTteoJUk/versions/1.2.0/clean-logs-1.2.0.jar"
