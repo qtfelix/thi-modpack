@@ -35,6 +35,16 @@ hash = "b09effe1ff38451198e5dccefedba0eca2d690a5c9e63113f3679b1c595df4f7"
 metafile = true
 
 [[files]]
+file = "mods/bosses-of-mass-destruction.pw.toml"
+hash = "ca2009981f17411a8fbbba875d69c27311a3ce827cf385c7ca3dc707618bcfbf"
+metafile = true
+
+[[files]]
+file = "mods/cardinal-components-api.pw.toml"
+hash = "6cda0d81af9026b4ede96dd6f71d724295cd4676409bbdb376182a6a5a029fbf"
+metafile = true
+
+[[files]]
 file = "mods/clean-logs.pw.toml"
 hash = "722b14c4ecd0019df4bea4718d42efdf99bb43a6f5fb72ff717d96be1530f9c5"
 metafile = true
@@ -75,6 +85,11 @@ hash = "ce88019611129c7573ff24bffca1326a18fa647341f6a3f2e69fa8f5f5ab93ac"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "126218ccdf68bf48206a8207ce5de9dd3e65f969d80b1a77c62e8f1143a2289a"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "6ac0dcedb1bedd066ec26b0984398687eb863e3aba59bef941767560f936acfc"
 metafile = true
@@ -91,7 +106,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "46a08a7118c9e89943b686509e99d5a3a01ae3410ea503f92fcf643ebfd319c2"
+hash = "4c993dc771f9b9648a9154fe84d942d9aeb8c45356faac5d4d6c95f5506d458b"
 metafile = true
 
 [[files]]
@@ -126,7 +141,7 @@ metafile = true
 
 [[files]]
 file = "mods/midnightlib.pw.toml"
-hash = "9421355a24881292851803d45726a5aebce4c5a5863793d7d373565b4fceb1eb"
+hash = "ccb16cf2e087e7236428b38064798ab1e96f98d63dd6acb5bf7d923bea21ef7c"
 metafile = true
 
 [[files]]

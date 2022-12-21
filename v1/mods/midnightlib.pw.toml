@@ -11,3 +11,8 @@ hash = "7b128ae80b9aeb4d9ae5d901ce6ecaece25b1fd4"
 [update.modrinth]
 mod-id = "codAaoxh"
 version = "hxPiYWhh"
+
+[option]
+optional = false
+default = true
+description = """Required by the Bumblebee Zone"""
