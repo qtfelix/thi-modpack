@@ -30,6 +30,11 @@ hash = "472c2d8d721592760042e56a7a5e5eb1c2fefa4e80236b7c44af2b62250f93a7"
 metafile = true
 
 [[files]]
+file = "mods/bewitchment.pw.toml"
+hash = "9d390f8378b38aa1ca9402721380827357552e12cff6c02cf272a9bfa8c39efa"
+metafile = true
+
+[[files]]
 file = "mods/borderless-mining.pw.toml"
 hash = "b09effe1ff38451198e5dccefedba0eca2d690a5c9e63113f3679b1c595df4f7"
 metafile = true
@@ -57,6 +62,11 @@ metafile = true
 [[files]]
 file = "mods/continuity.pw.toml"
 hash = "6441b1ed50bd2adfb920c3c535b877020dc535acc8a2eecab6776e8995bd9fb5"
+metafile = true
+
+[[files]]
+file = "mods/create-fabric.pw.toml"
+hash = "b6d88ec0e940243d228316c8b3a186c4bb5024e8dba627c88bdc29f93bf7e31b"
 metafile = true
 
 [[files]]
@@ -155,6 +165,16 @@ hash = "5f39d2f928741c29afd70814c853475ded4edaf55231c8a7d9bc265af3eab160"
 metafile = true
 
 [[files]]
+file = "mods/patchouli-fabric.pw.toml"
+hash = "0103115337ebe895bb4802a4de51d9ea8f130112581b9cdf28ed3abee59d50de"
+metafile = true
+
+[[files]]
+file = "mods/pehkui.pw.toml"
+hash = "2b7f7f74182b86122c27d4e94c8698ce34d86c64fd9ab1bef8993e4ccf68d251"
+metafile = true
+
+[[files]]
 file = "mods/qsl.pw.toml"
 hash = "d0e66dcb986de3a73a6109c508d54a1ad845bfdb8a681cf696c224f72a09d479"
 metafile = true
@@ -192,6 +212,11 @@ metafile = true
 [[files]]
 file = "mods/the-twilight-forest.pw.toml"
 hash = "9f9a5f08a22c3bccb59c81aab2e61dc6c28542a3cfeee9e2c8f6b1551ae44f91"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "5a8342a2173fae11a3c37fdfc29e53404b73ad6dab4d420a154d93440bb77a1b"
 metafile = true
 
 [[files]]
