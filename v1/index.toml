@@ -60,6 +60,11 @@ hash = "6441b1ed50bd2adfb920c3c535b877020dc535acc8a2eecab6776e8995bd9fb5"
 metafile = true
 
 [[files]]
+file = "mods/create-fabric.pw.toml"
+hash = "b6d88ec0e940243d228316c8b3a186c4bb5024e8dba627c88bdc29f93bf7e31b"
+metafile = true
+
+[[files]]
 file = "mods/cull-less-leaves.pw.toml"
 hash = "2f006fce9c8a7fbf7680140e80f2e0aab201df36e84f9f360b9edd57b536c404"
 metafile = true
