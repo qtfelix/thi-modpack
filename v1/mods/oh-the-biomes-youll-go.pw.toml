@@ -3,18 +3,16 @@ filename = "Oh_The_Biomes_You'll_Go-fabric-1.19.2-2.0.0.13.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/uE1WpIAk/versions/B3LkZn0y/Oh_The_Biomes_You%27ll_Go-fabric-1.19.2-2.0.0.13.jar"
+url = "https://cdn.modrinth.com/data/uE1WpIAk/versions/oFcbieSw/Oh_The_Biomes_You%27ll_Go-fabric-1.19.2-2.0.0.13.jar"
 hash-format = "sha1"
-hash = "77148303bbb275a6cd3d5397e420e84a72db5c5e"
+hash = "306b3605a45e0ad643e41dc3993d106d9dd7b9bf"
 
 [update]
 [update.modrinth]
 mod-id = "uE1WpIAk"
-version = "B3LkZn0y"
+version = "oFcbieSw"
 
 [option]
 optional = false
+description = "(Required since it adds new blocks and items)\n\nAdds many new biomes and some structures, some of which are made with new blocks."
 default = true
-description = """(Required since it adds new blocks and items)
-
-Adds many new biomes and some structures, some of which are made with new blocks."""

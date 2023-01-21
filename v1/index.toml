@@ -96,7 +96,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "126218ccdf68bf48206a8207ce5de9dd3e65f969d80b1a77c62e8f1143a2289a"
+hash = "5ab3d682909eb08dee47dd8d1495efb76448e83dd500e20ea2d767b628da3e69"
 metafile = true
 
 [[files]]
@@ -126,7 +126,7 @@ metafile = true
 
 [[files]]
 file = "mods/horsebuff.pw.toml"
-hash = "2ac4f4318902ea4f1b55cc079a38aba270645813540d943fbc59a2be01fdd7a2"
+hash = "1e9b5d05ed92f7bf41f2bb305749faacfa6cab3a10ebebdf0984b8d2d6787208"
 metafile = true
 
 [[files]]
@@ -161,7 +161,7 @@ metafile = true
 
 [[files]]
 file = "mods/oh-the-biomes-youll-go.pw.toml"
-hash = "5f39d2f928741c29afd70814c853475ded4edaf55231c8a7d9bc265af3eab160"
+hash = "3456696f1958f3bef97e40e73873f518bc89fbc7bdf75668b849f86de7eb20a3"
 metafile = true
 
 [[files]]
@@ -171,17 +171,17 @@ metafile = true
 
 [[files]]
 file = "mods/pehkui.pw.toml"
-hash = "2b7f7f74182b86122c27d4e94c8698ce34d86c64fd9ab1bef8993e4ccf68d251"
+hash = "ef1b4a441c1f88eb1bb320da4ceb47c8cfc36b53edfd126e8b79eabfe162a14c"
 metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "d0e66dcb986de3a73a6109c508d54a1ad845bfdb8a681cf696c224f72a09d479"
+hash = "2158bfca1a20c854acc654324b419ea1e9f230c9cd6a337cd3ca9ece7f304ebe"
 metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "d860a218217198bb9f208a3c6ed1dca761be1411136c1c0b500ff3a75fcad2f6"
+hash = "a50429f72788fd6a30e281cf5064c86cd8d9b1a9021c98fbce236d44316984a1"
 metafile = true
 
 [[files]]
@@ -211,12 +211,12 @@ metafile = true
 
 [[files]]
 file = "mods/trinkets.pw.toml"
-hash = "5a8342a2173fae11a3c37fdfc29e53404b73ad6dab4d420a154d93440bb77a1b"
+hash = "bbd4ba6c9d65822511fcb47417a613481337b11f4fa0ec85080e823bc0c1b662"
 metafile = true
 
 [[files]]
 file = "mods/when-dungeons-arise.pw.toml"
-hash = "a4203634377d1bc6a69d11f8373541e13ebcb1d83a2f3dc064827d7cfe5c6e26"
+hash = "0c6f67f3afd36e5cc843e70a0cf9676f83288768e048cad925ba483e699641bb"
 metafile = true
 
 [[files]]
@@ -226,12 +226,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "6b965ec07e82c78d5bffad9fc892702e1fd04fbf498bbad7e54599f9205a99be"
+hash = "04b7fb2f2ed94a41f9d2cb61f1b174d180f5a60c13f4e25bb8df2ecf9aa8dd45"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "ba7db23cdc69c4b0fe5f30ee7e14122a7d9a8bc1ce136e0f42ac9621e96cf745"
+hash = "23b9aacd5a1589485f6eb2e14a91c7d536fa6b28d30fb1cd62b229c4eb7664d4"
 metafile = true
 
 [[files]]

@@ -1,23 +1,18 @@
 name = "Horse Buff"
-filename = "HorseBuff-1.19-2.0.1.jar"
+filename = "HorseBuff-1.19-pre2-2.0.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/IrrG0G8l/versions/1.19-2.0.1/HorseBuff-1.19-2.0.1.jar"
+url = "https://cdn.modrinth.com/data/IrrG0G8l/versions/2.0.0-1.19/HorseBuff-1.19-pre2-2.0.0.jar"
 hash-format = "sha1"
-hash = "acd8be74c59291dbf09e2c08de11cabb4bfcd6dd"
+hash = "70a9a08f5da46c0700adf9bec2d1615611a2311f"
 
 [update]
 [update.modrinth]
 mod-id = "IrrG0G8l"
-version = "DvXgcRxr"
+version = "bJJgTASh"
 
 [option]
 optional = true
+description = "Bugfixes and quality-of-life tweaks around horses.\n\nThe most important fixes only needed us to install it on the server, but there are some additional client-side benefits:\n* Make the horse translucent when you look down while riding\n* Adjust the horse's head's angle downward while riding\n* Open the inventory while sprinting to show your inventory and not the horse's"
 default = true
-description = """Bugfixes and quality-of-life tweaks around horses.
-
-The most important fixes only needed us to install it on the server, but there are some additional client-side benefits:
-* Make the horse translucent when you look down while riding
-* Adjust the horse's head's angle downward while riding
-* Open the inventory while sprinting to show your inventory and not the horse's"""
