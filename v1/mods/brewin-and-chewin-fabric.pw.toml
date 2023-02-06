@@ -1,0 +1,20 @@
+name = "Brewin' And Chewin' [Fabric]"
+filename = "brewinandchewin-fabric-1.0.5+1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "786674c803752d9be4fe74428ab37c39baa5c8ad"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4332440
+project-id = 807512
+
+[option]
+optional = false
+default = true
+description = """(Required as it adds new foods and brewing mechanics)
+
+An addon for Farmers Delight that adds a keg and lets you ferment things"""

@@ -45,6 +45,11 @@ hash = "ca2009981f17411a8fbbba875d69c27311a3ce827cf385c7ca3dc707618bcfbf"
 metafile = true
 
 [[files]]
+file = "mods/brewin-and-chewin-fabric.pw.toml"
+hash = "51a0359ba55e42608e696d3ff74c8476349f2f58d2a25f9a2c89249cea361dc8"
+metafile = true
+
+[[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "6cda0d81af9026b4ede96dd6f71d724295cd4676409bbdb376182a6a5a029fbf"
 metafile = true
@@ -66,12 +71,17 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "b6d88ec0e940243d228316c8b3a186c4bb5024e8dba627c88bdc29f93bf7e31b"
+hash = "727668753cf607f7477993f51643a8a4d7d967e2ff171f9f2b2777f0f88d7239"
 metafile = true
 
 [[files]]
 file = "mods/cull-less-leaves.pw.toml"
 hash = "2f006fce9c8a7fbf7680140e80f2e0aab201df36e84f9f360b9edd57b536c404"
+metafile = true
+
+[[files]]
+file = "mods/cultural-delights-fabric.pw.toml"
+hash = "e4dd0f76d83d309eec07b598759ae27422d73f053755250c3cf6b0394691677b"
 metafile = true
 
 [[files]]
@@ -102,6 +112,11 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "6ac0dcedb1bedd066ec26b0984398687eb863e3aba59bef941767560f936acfc"
+metafile = true
+
+[[files]]
+file = "mods/farmers-respite-fabric.pw.toml"
+hash = "4a8b597e2d39ef792e765a699c55a03adc0cdc54f537872d4743b576ce214936"
 metafile = true
 
 [[files]]

@@ -1,0 +1,20 @@
+name = "Farmer's Respite (Fabric)"
+filename = "Farmersrespite-Fabric-2.2.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ff628d8fd322b08f901639375faed831d40b12f3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4361926
+project-id = 811003
+
+[option]
+optional = false
+default = true
+description = """(Required because it adds new items, blocks and food effects)
+
+Farmer's Respite is an addon mod for Farmer's Delight based around adding tea and brewing mechanics!"""
