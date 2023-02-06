@@ -175,6 +175,11 @@ hash = "a18682c39a0d2da6ab80651ead1866a3ddeb331605a48da81f091023439ec1e6"
 metafile = true
 
 [[files]]
+file = "mods/nethers-delight-fabric.pw.toml"
+hash = "f94e8ea94e15eb30a7b946fc64a30ae87b71f5ddad7547692bf004b99aaf2375"
+metafile = true
+
+[[files]]
 file = "mods/oh-the-biomes-youll-go.pw.toml"
 hash = "3456696f1958f3bef97e40e73873f518bc89fbc7bdf75668b849f86de7eb20a3"
 metafile = true
