@@ -176,7 +176,7 @@ metafile = true
 
 [[files]]
 file = "mods/nethers-delight-fabric.pw.toml"
-hash = "f94e8ea94e15eb30a7b946fc64a30ae87b71f5ddad7547692bf004b99aaf2375"
+hash = "48bf199e113f21b63e0a7fd35e11ba9946f15dbd06f80607edd391ed884cec3f"
 metafile = true
 
 [[files]]
