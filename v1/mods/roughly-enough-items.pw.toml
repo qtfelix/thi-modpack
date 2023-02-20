@@ -1,17 +1,22 @@
 name = "Roughly Enough Items (REI)"
-filename = "RoughlyEnoughItems-9.1.587.jar"
+filename = "RoughlyEnoughItems-9.1.591.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/nfn13YXA/versions/lAwmPbBg/RoughlyEnoughItems-9.1.587.jar"
+url = "https://cdn.modrinth.com/data/nfn13YXA/versions/pUXhM35r/RoughlyEnoughItems-9.1.591.jar"
 hash-format = "sha1"
-hash = "48a78bea0e7c0c8ddabdb235be4306c7ba885b10"
+hash = "c7c7956e2f11c6518b576273185c0512b2c0779f"
 
 [update]
 [update.modrinth]
 mod-id = "nfn13YXA"
-version = "lAwmPbBg"
+version = "pUXhM35r"
 
 [option]
 optional = true
-description = "(Recommended, especially if you haven't played the game in ages)\n\nAn item and recipe browser that should save you from having to look up the wiki so much. Also includes items and recipes added by other mods.\n\n(Requires Architectury API and Cloth Config API to be enabled as well)"
+default = false
+description = """(Recommended, especially if you haven't played the game in ages)
+
+An item and recipe browser that should save you from having to look up the wiki so much. Also includes items and recipes added by other mods.
+
+(Requires Architectury API and Cloth Config API to be enabled as well)"""

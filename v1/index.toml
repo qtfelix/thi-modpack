@@ -11,7 +11,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "197b03f0517e116c9c6c1d08efc1c8e4386e971dece0f1340227bfe443eaa409"
+hash = "0cd607fed8fdee67af67311e8648e60e7f4c4d98adac121d5d0a20e20c6d70e0"
 metafile = true
 
 [[files]]
@@ -71,7 +71,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "727668753cf607f7477993f51643a8a4d7d967e2ff171f9f2b2777f0f88d7239"
+hash = "ec8495d8f3fc41c87580a4469eed8b9d8c7640b6072713c57c758dbec7899bd8"
 metafile = true
 
 [[files]]
@@ -171,7 +171,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "a18682c39a0d2da6ab80651ead1866a3ddeb331605a48da81f091023439ec1e6"
+hash = "9ed502b33bdb3a1d2c98f78b61eddf6e87155e9b71388e76c4d5805f54872b99"
 metafile = true
 
 [[files]]
@@ -191,12 +191,12 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "d6ec8d3e0487884cf4e3fd43a5496e54a30f4e91a626bb5b790f6f1932e3d1bb"
+hash = "be54a26bad17e63518f6b59796d76fba14385a59e49a3129ed70f378bb6dfcb2"
 metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "a8343a65e9002c3341af46681e631b4dece756f8980588329ab0f360b15d478c"
+hash = "243a2e643cf61c40231f84f5addaed266ef0d4f86044c5b71cb674b6e0713389"
 metafile = true
 
 [[files]]
@@ -221,7 +221,7 @@ metafile = true
 
 [[files]]
 file = "mods/the-twilight-forest.pw.toml"
-hash = "9f9a5f08a22c3bccb59c81aab2e61dc6c28542a3cfeee9e2c8f6b1551ae44f91"
+hash = "7b494ec911b4c3d3a449dc56f51cebcab58487cfed55d55372046cfff72c446e"
 metafile = true
 
 [[files]]
@@ -241,17 +241,17 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "04b7fb2f2ed94a41f9d2cb61f1b174d180f5a60c13f4e25bb8df2ecf9aa8dd45"
+hash = "e45b37de14fc4e76dd899d49c8a952051870e08211d60d6929b9e0496c00e5a2"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "23b9aacd5a1589485f6eb2e14a91c7d536fa6b28d30fb1cd62b229c4eb7664d4"
+hash = "15572fd54878683d6b14181726a60cd724aa6620052666f889ccb7c8efe0c859"
 metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "7f678fa440ed1426c98faedf31375501dd4fd385a68aa048532913cd2b166439"
+hash = "075191732562e3eee3e543039076e15d6d9920ae8d37ba26ab94502a4af2596f"
 metafile = true
 
 [[files]]
