@@ -71,7 +71,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "ec8495d8f3fc41c87580a4469eed8b9d8c7640b6072713c57c758dbec7899bd8"
+hash = "3d4a2e0710b0ef44b151293945848b392f644f9ef0cd0233c9a37c8c64da1b3b"
 metafile = true
 
 [[files]]
@@ -171,7 +171,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "9ed502b33bdb3a1d2c98f78b61eddf6e87155e9b71388e76c4d5805f54872b99"
+hash = "369a2782aaeebfffe8223d0bd879d3ca06b246f34f68deacc26fbe1d82e5da43"
 metafile = true
 
 [[files]]
@@ -196,7 +196,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "243a2e643cf61c40231f84f5addaed266ef0d4f86044c5b71cb674b6e0713389"
+hash = "2e5680a626dd1d1f74060bfd1ace5512ff2511061fde5db071da8ab81a5e6e16"
 metafile = true
 
 [[files]]
@@ -221,7 +221,7 @@ metafile = true
 
 [[files]]
 file = "mods/the-twilight-forest.pw.toml"
-hash = "7b494ec911b4c3d3a449dc56f51cebcab58487cfed55d55372046cfff72c446e"
+hash = "624aae98145fad6ed4965a4fe40562b1f0f2fa9b02d8ce127c0557d68e055373"
 metafile = true
 
 [[files]]
@@ -251,7 +251,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "075191732562e3eee3e543039076e15d6d9920ae8d37ba26ab94502a4af2596f"
+hash = "a3fdc60a22e627ebedc4dcd6ddfd3dd3c5b776753e15c54bb7f3d01d0b4e095b"
 metafile = true
 
 [[files]]
