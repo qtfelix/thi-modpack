@@ -5,6 +5,11 @@ file = "config/clean-logs/config.toml"
 hash = "bfb1a5459f9d5ca67fc8b265263a753d7715ef85607c04859083668836ef5d6d"
 
 [[files]]
+file = "mods/alloy-forgery.pw.toml"
+hash = "af497fbdf44ff6b8cd6cd5838a17a3bc25ea71a50b64ffc82e18166b770dd984"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "0616e3af906dedaba7af274d190bb9eb5faf76ffbd21aa35bdd9950ba88d972f"
 metafile = true
@@ -42,6 +47,11 @@ metafile = true
 [[files]]
 file = "mods/bosses-of-mass-destruction.pw.toml"
 hash = "ca2009981f17411a8fbbba875d69c27311a3ce827cf385c7ca3dc707618bcfbf"
+metafile = true
+
+[[files]]
+file = "mods/botania.pw.toml"
+hash = "7f65093b63ee2e89872ec040d475ccfd6da5945261c72ed5c108286a760022fc"
 metafile = true
 
 [[files]]
@@ -131,7 +141,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "4c993dc771f9b9648a9154fe84d942d9aeb8c45356faac5d4d6c95f5506d458b"
+hash = "febe79b541e162e6789eedbe66a4ecf00fe66d9838f23c3bc3d3c1683704f910"
 metafile = true
 
 [[files]]
@@ -175,8 +185,23 @@ hash = "369a2782aaeebfffe8223d0bd879d3ca06b246f34f68deacc26fbe1d82e5da43"
 metafile = true
 
 [[files]]
+file = "mods/mythic-mounts.pw.toml"
+hash = "18837e1fc07cbfbe9f2ff3bf080c0cdcf82c0c2ceba9dce1bff0ab8548210896"
+metafile = true
+
+[[files]]
+file = "mods/mythicmetals.pw.toml"
+hash = "4897d8cf26c19411ec2360ad8737a20b97a0a6a93ce9b8e32324ac066d3916b2"
+metafile = true
+
+[[files]]
 file = "mods/oh-the-biomes-youll-go.pw.toml"
 hash = "3456696f1958f3bef97e40e73873f518bc89fbc7bdf75668b849f86de7eb20a3"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "f0d62fbceebc8492d93a2f9e1bd3666a70fe5809ff91d72ea6f050406bc9a474"
 metafile = true
 
 [[files]]
@@ -226,7 +251,7 @@ metafile = true
 
 [[files]]
 file = "mods/trinkets.pw.toml"
-hash = "bbd4ba6c9d65822511fcb47417a613481337b11f4fa0ec85080e823bc0c1b662"
+hash = "e4e021f4e9647d01496dfd9f4dbf77cf46575318bd54f40aac7d3b4996baecb8"
 metafile = true
 
 [[files]]

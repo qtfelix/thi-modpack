@@ -1,0 +1,18 @@
+name = "Mythic Metals"
+filename = "mythicmetals-0.17.2+1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bAWzYNRd/versions/63wOArJr/mythicmetals-0.17.2%2B1.19.2.jar"
+hash-format = "sha1"
+hash = "94cc86cb6f5ed0b78a081460cf8be0b725be1af5"
+
+[update]
+[update.modrinth]
+mod-id = "bAWzYNRd"
+version = "63wOArJr"
+
+[option]
+optional = false
+default = true
+description = "New mythical ores to craft into weapons and armour"
