@@ -1,15 +1,15 @@
 name = "Xaero's Minimap"
-filename = "Xaeros_Minimap_23.1.0_Fabric_1.19.1.jar"
+filename = "Xaeros_Minimap_23.3.1_Fabric_1.19.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "c3ffc825c02f744f7f6f1fa227214b5c81090563"
+hash = "227d305a2906eed74e7de9477995db651af20819"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4381123
+file-id = 4440695
 project-id = 263420
 
 [option]
@@ -18,5 +18,6 @@ description = """(Required since installing it on the server prevents it from be
 
 A highly configurable minimap.
 
-(Per the author's conditions for distribution in modpacks, here's a link back to their site: https://chocolateminecraft.com/minimap2.php)"""
+(Per the author's conditions for distribution in modpacks, here's a link back to their site: https://chocolateminecraft.com/minimap2.php)
+"""
 default = true
